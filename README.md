@@ -10,7 +10,7 @@
 
 ### Переменные
 
-![Список переменных](http://ramapriyakirtan.myjino.ru/bp_151_bx24.dismiss_user/02_bp.png)
+![Список переменных](http://ramapriyakirtan.myjino.ru/bp_151_bx24.dismiss_user/02_bp_.png)
 
 Процесс содержит несколько переменных:
 
